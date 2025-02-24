@@ -13,9 +13,9 @@ Node 12.x, node-gyp, make/build-essential, sqlite3, git, tmux (if you wish to us
 
 Use your package manager to install these and/or the script provided by nodejs
 
-Then do a git clone https://github.com/blubaustin/Yuno-Gasai-2.git
+Then do a git clone [https://github.com/blubaustin/Yuno-Gasai-2.git](https://github.com/blubskye/Yuno-Gasai-Tech-Server]
 
-cd Yuno-Gasai-2
+cd Yuno-Gasai-Tech-Server
 
 npm install
 
